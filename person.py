@@ -13,7 +13,7 @@ class Person:
         print(f"Hi, my name is {self.name}, I am {self.age} years old, and I am {self.gender}.")
 
 # Create an instance of the 'Person' class
-person1 = Person("John Doe", 17, "Male")
+person1 = Person("Nuel Cas", 18, "Male")
 
 # Call the 'introduce' method to display the person's information
 person1.introduce()
