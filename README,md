@@ -1,0 +1,16 @@
+# Person Class Assignment
+
+This repository contains a Python script for the "Person Class" assignment.
+
+## Assignment Description
+- Create a Python class named `Person`.
+- The class has the following attributes: `name`, `age`, and `gender`.
+- Implement a method called `introduce` that prints the person's information.
+
+## How to Run the Code
+
+1. Clone or download this repository.
+2. Open the terminal and navigate to the project directory.
+3. Run the Python file:
+   ```bash
+   python person.py
